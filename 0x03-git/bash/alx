@@ -2,4 +2,8 @@
 #!/bin/bash echo "ALX"
 #!/bin/bash
 ALX
+<<<<<<< HEAD
 ALX is so cool
+=======
+ALX School
+>>>>>>> update_script
