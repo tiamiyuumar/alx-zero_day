@@ -1,9 +1,2 @@
-#!bin/bash echo ALX
-#!/bin/bash echo "ALX"
-#!/bin/bash
-ALX
-<<<<<<< HEAD
-ALX is so cool
-=======
-ALX School
->>>>>>> update_script
+#!/bin/bashecho "ALX School is so cool"
+#!/bin/bashecho "ALX School"
